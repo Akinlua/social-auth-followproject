@@ -1,1 +1,1 @@
-# social-auth-followproject
+# social-authentication using GitHubfor login-follow project
